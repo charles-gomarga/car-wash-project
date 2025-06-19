@@ -29,51 +29,43 @@ car-wash-project/
 
 ## 📌 Key Analyses
 
-### 1. 🧱 Database Schema
-- Defined relational structure for customers, vehicles, visits, and subscriptions
-- See: [`01_schema/car_wash_schema.sql`](./01_schema/car_wash_schema.sql)
-
-### 2. 🖼 Entity Relationship Diagram (ERD)
+### 🖼️ Entity Relationship Diagram (ERD)
 - Visual representation of relationships between key tables
-- See: [`02_ERD/car_wash_erd.png`](./02_ERD/car_wash_erd.png)
+- See: [Car Wash ERD](./01_car_wash_schema/car_wash_erd.png)
 
-### 3. 📊 Customer Behavior Analysis
+### 🧱 Database Schema
+- Defined relational structure for customers, vehicles, visits, subscriptions, and their details
+- See: [Car Wash Schema](./01_car_wash_schema/car_wash_schema.sql)
+
+### 📄 Dataset
+- A dummy dataset was created to simulate a real-world car wash business environment
+- See: [Car Wash Dummy Dataset](./02_dataset/dummy_data.sql)
+
+### 📊 Customer Behavior Analysis
 - Identifies churn, visit patterns, and engagement trends
-- See: [`03_customer_behavior_analysis/queries.sql`](./03_customer_behavior_analysis/queries.sql)
+- See: [Customer Behavior Analysis](./03_customer_behavior_analysis)
 
-### 4. 📈 Revenue Trends Analysis
+### 📈 Revenue Trends Analysis
 - Calculates monthly revenue, MoM growth, and performance metrics
-- See: [`04_revenue_trends_analysis/queries.sql`](./04_revenue_trends_analysis/queries.sql)
+- See: [Revenue Trends Analysis](./04_revenue_trends_analysis)
 
-### 5. 🧠 Customer Segmentation
+### 👨‍👩‍👧‍👦 Customer Segmentation
 - Groups customers based on plan, frequency, and spending behavior
-- See: [`05_customer_segmentation_analysis/queries.sql`](./05_customer_segmentation_analysis/queries.sql)
-
----
-
-## 📂 Dataset
-
-A dummy dataset was created to simulate a real-world car wash business environment, including:
-- Customers
-- Vehicles
-- Visits
-- Subscriptions
-
-File: [`dummy_dataset.sql`](./dummy_dataset.sql)
+- See: [Customer Segmentation](./05_customer_segmentation_analysis)
 
 ---
 
 ## 🛠️ Tools Used
-- PostgreSQL
+- PostgreSQL 17
 - pgAdmin 4
 - Git & GitHub
 
 ---
 
 ## 📚 How to Use
-1. Set up a PostgreSQL database
+1. Set up a PostgreSQL database (default: car_wash)
 2. Run the schema file: `car_wash_schema.sql`
-3. Import the dummy dataset
+3. Import the dummy dataset (dummy_dataset.sql)
 4. Execute queries from each analysis folder
 
 ---
@@ -85,5 +77,5 @@ This project is part of a personal SQL portfolio and open to suggestions or impr
 
 ## 📬 Contact
 **Charles Gomarga**  
-GitHub: [charles-gomarga](https://github.com/charles-gomarga)
+GitHub: [Charles Gomarga @GitHub](https://github.com/charles-gomarga)
 LinkedIn: [Charles Gomarga](https://www.linkedin.com/in/charlesgomarga/)
