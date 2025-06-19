@@ -65,7 +65,7 @@ car-wash-project/
 ## 📚 How to Use
 1. Set up a PostgreSQL database (default: car_wash)
 2. Run the schema file: `car_wash_schema.sql`
-3. Import the dummy dataset (dummy_dataset.sql)
+3. Import the `dummy_dataset.sql`
 4. Execute queries from each analysis folder
 
 ---
