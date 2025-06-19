@@ -4,8 +4,9 @@ This project showcases a series of SQL-based data analysis tasks using a fiction
 It is intended to demonstrate SQL proficiency in data filtering, business analysis, customer behavior, revenue trends, and customer segmentation.
 
 ---
-```
+
 ## 📁 Project Structure
+```
 car-wash-project/
 ├── 01_schema/
 │ └── car_wash_schema.sql
