@@ -65,8 +65,8 @@ File: [`dummy_dataset.sql`](./dummy_dataset.sql)
 
 ## 🛠️ Tools Used
 - PostgreSQL
+- pgAdmin 4
 - Git & GitHub
-- VS Code / pgAdmin (or any SQL editor)
 
 ---
 
@@ -86,3 +86,4 @@ This project is part of a personal SQL portfolio and open to suggestions or impr
 ## 📬 Contact
 **Charles Gomarga**  
 GitHub: [charles-gomarga](https://github.com/charles-gomarga)
+LinkedIn: [Charles Gomarga](https://www.linkedin.com/in/charlesgomarga/)
