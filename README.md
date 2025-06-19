@@ -45,11 +45,11 @@ car-wash-project/
 - Identifies churn, visit patterns, and engagement trends
 - See: [Customer Behavior Analysis](./03_customer_behavior_analysis)
 
-### 📈 Revenue Trends Analysis
+### 💰 Revenue Trends Analysis
 - Calculates monthly revenue, MoM growth, and performance metrics
 - See: [Revenue Trends Analysis](./04_revenue_trends_analysis)
 
-### 👨‍👩‍👧‍👦 Customer Segmentation
+### 🧩 Customer Segmentation
 - Groups customers based on plan, frequency, and spending behavior
 - See: [Customer Segmentation](./05_customer_segmentation_analysis)
 
