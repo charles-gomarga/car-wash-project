@@ -77,5 +77,6 @@ This project is part of a personal SQL portfolio and open to suggestions or impr
 
 ## 📬 Contact
 **Charles Gomarga**  
-GitHub: [Charles Gomarga @GitHub](https://github.com/charles-gomarga)
-LinkedIn: [Charles Gomarga](https://www.linkedin.com/in/charlesgomarga/)
+Email: [charlesgomargaa@gmail.com](mailto:charlesgomargaa@gmail.com)  
+LinkedIn: [Charles Gomarga](https://www.linkedin.com/in/charlesgomarga/)  
+
